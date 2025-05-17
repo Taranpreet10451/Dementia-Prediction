@@ -1,29 +1,29 @@
-# 🧠 Dementia Prediction
+# Dementia Prediction
 
 This project is focused on building a **Machine Learning model** to predict dementia occurrence using demographic and clinical data. It leverages data preprocessing and training techniques to generate meaningful predictions.
 
-## 📁 Dataset
+## Dataset
 
 The model uses the **OASIS Longitudinal Demographics** dataset containing clinical and demographic data relevant to dementia analysis.
 
-- 📄 Dataset file: `oasis_longitudinal_demographics.xlsx`
+- Dataset file: `oasis_longitudinal_demographics.xlsx`
 
-## 🧪 Technologies Used
+## Technologies Used
 
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Scikit-learn
 - Jupyter Notebook
 
-## 🛠️ Project Structure
+## Project Structure
 
 ├── main.py                               # Main Python script for training and prediction  
 ├── oasis_longitudinal_demographics.xlsx  # Input dataset  
 ├── Predictions.xlsx                      # Output file with predicted results  
 ├── README.md                             # Project documentation
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow the steps below to get this project up and running on your local machine.
 
@@ -60,11 +60,11 @@ python main.py
 
 This will generate a `Predictions.xlsx` file with model outputs.
 
-## 📊 Output Example
+## Output Example
 
 After training, the model will output:
 
-- ✅ Accuracy metrics
-- 📈 Predictions saved in `Predictions.xlsx`
-- 🧠 Insights into dementia prediction
+- Accuracy metrics
+- Predictions saved in `Predictions.xlsx`
+- Insights into dementia prediction
 
